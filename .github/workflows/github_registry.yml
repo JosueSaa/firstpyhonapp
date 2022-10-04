@@ -1,4 +1,4 @@
-name: CI to firstpyhonapp
+name: CI to firstpyhonapp01
 
 on:
   push:
